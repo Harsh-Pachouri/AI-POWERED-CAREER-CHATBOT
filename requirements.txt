@@ -1,0 +1,5 @@
+boto3
+python-telegram-bot
+sentence-transformers
+faiss-cpu
+numpy
